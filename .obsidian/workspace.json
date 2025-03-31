@@ -1,0 +1,267 @@
+{
+  "main": {
+    "id": "fd64f167a1ca34e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5856190bf46f8cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ade2ba82f8af4034",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Articles/Using-Flickr-to-Generate-an-Image-Gallery.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Using-Flickr-to-Generate-an-Image-Gallery"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a00ecf9fdf7fc6b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f23e5802787f46ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d886f93a66ee3a62",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "302b19685635cd1f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "092daebd06783144",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 363.5
+  },
+  "right": {
+    "id": "13fd9d4d78d9f053",
+    "type": "split",
+    "children": [
+      {
+        "id": "acbabeef705355f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f857988a98f3394",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/Articles/Footnotes and other Diversions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Footnotes and other Diversions"
+            }
+          },
+          {
+            "id": "d2a1bbf34a70f869",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/Articles/Footnotes and other Diversions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Footnotes and other Diversions"
+            }
+          },
+          {
+            "id": "fac2b580753629bd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dfc0faadc097eba7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "ba4e1e152eafb9cd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "827123e5dfb483da",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
+            }
+          },
+          {
+            "id": "a9ac8459ddead1f6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "gpt3-notes:GPT-3 Notes": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+    }
+  },
+  "active": "ade2ba82f8af4034",
+  "lastOpenFiles": [
+    "docs/eBookProduction/Making-eBook-of-Recipes.md",
+    "docs/eBookProduction/Fixed Layout eBook.md",
+    "docs/eBookProduction/InDesign-to-the-Fixed-Layout-ePub.md",
+    "docs/eBookProduction/Fixed-Layout-ePub-with-swashes.md",
+    "docs/eBookProduction/Editing-inside-the-ePUB.md",
+    "docs/eBookProduction/What-Kind-of-eBook.md",
+    "docs/eBookProduction/Notes for the Fixed Layout eBook workshop.md",
+    "docs/eBookProduction/Notes-on-Fixed-Layout-eBook.md",
+    "docs/eBookProduction/Page-size-in -InDesign-for-eBook.md",
+    "docs/eBookProduction/Page-Size-Issues.md",
+    "docs/eBookProduction/Roundtripping.md",
+    "docs/eBookProduction/Tips-for-InDesign-Users.md",
+    "docs/eBookProduction/Ambient-Sound-Fixed-Layout-ePub.md",
+    "docs/eBookProduction/Creating-Reflowable-eBook.md",
+    "docs/eBookProduction/Enhancing-an-eBook.md",
+    "docs/Articles/An-Introduction-to-Photoshop.md",
+    "docs/Articles/Validation.md",
+    "docs/Articles/iterativepublishing.md",
+    "docs/Articles/Dropping-your-caps.md",
+    "docs/Articles/Sharing-to-Facebook-and-X.md",
+    "docs/Articles/Using-Flickr-to-Generate-an-Image-Gallery.md",
+    "docs/Articles/Vertical-Spacing-for text.md",
+    "docs/Articles/Video-across-spread.md",
+    "docs/Articles/Footnotes-and-other-Diversions.md",
+    "docs/Articles/Measure-me-in-Units.md",
+    "docs/Articles/HTML-and-CSS.md",
+    "docs/media/text2id/image9.png",
+    "docs/media/text2id/image8.png",
+    "docs/media/text2id/image7.png",
+    "docs/media/text2id/image6.png",
+    "docs/media/text2id/image4.png",
+    "docs/media/text2id/image3.png",
+    "docs/media/text2id/image2.png",
+    "docs/media/text2id/image11.png",
+    "docs/media/text2id/image10.png",
+    "docs/media/text2id/image1.png",
+    "docs/media/text2id",
+    "docs/media/id2xml",
+    "docs/media/ID2HTML",
+    "docs/media/untitled folder",
+    "docs/media/Untitled 1",
+    "docs/media/Untitled",
+    "docs/eBookProduction/eBook_production1.30.pdf",
+    "docs/InDesign",
+    "docs/media/eRecipeBook",
+    "docs/media/anchor_wrap",
+    "docs/private/Teaching_Hold/Multiplatform Publishing/Assignment1.canvas",
+    "docs/private/Teaching_Hold/DigitalProduct/assignment1.canvas",
+    "docs/private/Teaching_Hold/DigitalProduct/Assignment 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}
