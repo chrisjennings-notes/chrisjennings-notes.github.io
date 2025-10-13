@@ -14,5 +14,4 @@ This eBook focuses on revealing some features that can be implemented in flowabl
 
 Or you can grab from here:
 
-
-[[eBook Typography for Flowable eBooks]]
+[Download the eBook in ePub format](eBookTypography.epub)
