@@ -1,3 +1,7 @@
+---
+date: 2025-07-24
+updated: 2025-10-13
+---
 ## Chris Jennings
 
 ![Cover image](../../media/typography4eBooks.jpg)
@@ -7,3 +11,8 @@ Designers who work within publishing companies are often frustrated with the res
 This eBook focuses on revealing some features that can be implemented in flowable eBooks, in order to improve the aesthetic qualities of the juxtaposition of text and image on the page.
 
 [Download from Apple here](https://books.apple.com/gb/book/ebook-typography/id559791340)
+
+Or you can grab from here:
+
+
+[[eBook Typography for Flowable eBooks]]

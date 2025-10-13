@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c5856190bf46f8cd",
+        "id": "9e162d47c56aed68",
         "type": "tabs",
         "children": [
           {
-            "id": "ade2ba82f8af4034",
+            "id": "ac0317cd11fe7a0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Articles/Using-Flickr-to-Generate-an-Image-Gallery.md",
+                "file": "docs/eBooks/eBook Typography for Flowable eBooks.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Using-Flickr-to-Generate-an-Image-Gallery"
+              "title": "eBook Typography for Flowable eBooks"
             }
           }
         ]
@@ -197,6 +197,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
@@ -206,12 +207,35 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
-      "gpt3-notes:GPT-3 Notes": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "ade2ba82f8af4034",
+  "active": "ac0317cd11fe7a0b",
   "lastOpenFiles": [
+    "docs/eBooks/eBook Typography.epub",
+    "docs/eBooks/eBook Typography.epub/OEBPS/ebooktype-4.xhtml",
+    "docs/eBooks/eBook Typography.epub/OEBPS/ebooktype-10.xhtml",
+    "docs/eBooks/eBook Typography.epub/OEBPS/endnotes.xhtml",
+    "docs/eBooks/eBook Typography.epub/OEBPS/ebooktype-8head.xhtml",
+    "docs/eBooks/eBook Typography.epub/OEBPS/ebooktype-5head.xhtml",
+    "docs/eBooks/eBook Typography.epub/OEBPS/toc.ncx",
+    "docs/eBooks/eBook Typography.epub/OEBPS/ebooktype-6.xhtml",
+    "docs/eBooks/eBook Typography.epub/OEBPS/fonts/AlegreyaSC-Regular.woff",
+    "docs/eBooks/eBook Typography.epub/OEBPS/fonts/AlegreyaOFL_SIL_FontLicense.xhtml",
+    "docs/eBooks/eBook Typography.epub/OEBPS/fonts/AlegreyaSC-Regular.otf",
+    "docs/eBooks/eBook Typography.epub/OEBPS/images/nine.png",
+    "docs/eBooks/eBook Typography.epub/OEBPS/images/nine.jpg",
+    "docs/eBooks/eBook Typography.epub/OEBPS/images/eleven.png",
+    "docs/eBooks/eBook Typography.epub/OEBPS/images/eleven.jpg",
+    "docs/eBooks/eBook Typography.epub/OEBPS/images/seven.jpg",
+    "docs/eBooks/eBook Typography.epub/OEBPS/images/seven.png",
+    "docs/eBooks/eBook Typography.epub/OEBPS/images/eBookTypography.jpg",
+    "docs/eBooks/eBook Typography.epub/OEBPS/images/eBookTypography.png",
+    "docs/eBooks/eBook Typography.epub/OEBPS/images/id6_exportoptions_sidebar.jpg",
+    "docs/eBooks/eBook Typography.epub/OEBPS/images/cover.jpg",
+    "docs/eBooks/The Man Who Loved Islands.md",
+    "docs/Web Sites with GitHub/Add-Multimedia-to-Your-web-site.md",
+    "docs/Articles/Using-Flickr-to-Generate-an-Image-Gallery.md",
     "docs/eBookProduction/Making-eBook-of-Recipes.md",
     "docs/eBookProduction/Fixed Layout eBook.md",
     "docs/eBookProduction/InDesign-to-the-Fixed-Layout-ePub.md",
@@ -232,32 +256,8 @@
     "docs/Articles/iterativepublishing.md",
     "docs/Articles/Dropping-your-caps.md",
     "docs/Articles/Sharing-to-Facebook-and-X.md",
-    "docs/Articles/Using-Flickr-to-Generate-an-Image-Gallery.md",
     "docs/Articles/Vertical-Spacing-for text.md",
     "docs/Articles/Video-across-spread.md",
-    "docs/Articles/Footnotes-and-other-Diversions.md",
-    "docs/Articles/Measure-me-in-Units.md",
-    "docs/Articles/HTML-and-CSS.md",
-    "docs/media/text2id/image9.png",
-    "docs/media/text2id/image8.png",
-    "docs/media/text2id/image7.png",
-    "docs/media/text2id/image6.png",
-    "docs/media/text2id/image4.png",
-    "docs/media/text2id/image3.png",
-    "docs/media/text2id/image2.png",
-    "docs/media/text2id/image11.png",
-    "docs/media/text2id/image10.png",
-    "docs/media/text2id/image1.png",
-    "docs/media/text2id",
-    "docs/media/id2xml",
-    "docs/media/ID2HTML",
-    "docs/media/untitled folder",
-    "docs/media/Untitled 1",
-    "docs/media/Untitled",
-    "docs/eBookProduction/eBook_production1.30.pdf",
-    "docs/InDesign",
-    "docs/media/eRecipeBook",
-    "docs/media/anchor_wrap",
     "docs/private/Teaching_Hold/Multiplatform Publishing/Assignment1.canvas",
     "docs/private/Teaching_Hold/DigitalProduct/assignment1.canvas",
     "docs/private/Teaching_Hold/DigitalProduct/Assignment 2.canvas",
