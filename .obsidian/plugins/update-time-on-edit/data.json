@@ -8,7 +8,7 @@
   "ignoreCreatedFolder": [],
   "enableExperimentalHash": false,
   "fileHashMap": {
-    "docs/index.md": "4d74fbf301189d4269c7dfa51fb7a161586fb5026a933dff23643f02d4ad69f3",
+    "docs/index.md": "151c51ccc6e1d7ebf30c6b89d972d66fea9208b0c5556d0fc911dc56a7abe24e",
     "docs/Presentations/book_typography.md": "6b2e76439fa5605cc4a8a26dea65b126828426bbf428695cdf335cf35cd27eab",
     "docs/Presentations/computer_as_tool.md": "a66cc627b4c3e1433c86c729247243bf26e7d46732f3a4660b533f6edd25910b",
     "docs/Presentations/eEditing_in_browser.md": "b4fc89e67c6c183ef6350718ffe9a50de2c73f30102b7f3cc7b54637276bb27d",
@@ -81,6 +81,6 @@
     "docs/Articles/An-Introduction-to-Photoshop.md": "fba33f3f9d3140bb036cc82010d81c54f08a91fc7256f4120c2685d4be2094d2",
     "docs/InDesign/Preflight-and-Package.md": "a198d8d2be618a78d183566a896c4e236023ebde4fdf6ffc7d670fbc718d6a16",
     "docs/Articles/Footnotes-and-other-Diversions.md": "9c8687710e5445f48889dbac079deaa389919259315955b235fa338c01f76e56",
-    "docs/eBooks/eBook Typography for Flowable eBooks.md": "17b54d1550f2531223d6e969ef6c82f7a08054f4cf1d8d88d0af56beac4664d3"
+    "docs/eBooks/eBook Typography for Flowable eBooks.md": "4098f42518b7ec0fe6787013e776d3f8132c0227139e73814cac72fb2dd71c29"
   }
 }
