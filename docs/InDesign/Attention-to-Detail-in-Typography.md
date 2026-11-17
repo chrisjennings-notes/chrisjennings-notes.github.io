@@ -4,7 +4,7 @@ tags:
   - typography
 title: Attention to Detail in Typography with InDesign
 date: 2025-02-16
-updated: 2025-02-25
+updated: 2026-11-17
 ---
 
 ## Introduction
@@ -211,7 +211,9 @@ As with most page layout and word processor programs, we can enter a page-break,
 
 ## Widows and Orphans
 
-Widows are those items that are left all alone, either at the bottom of the page or at the end of a paragraph.
+ **Widow:** The last line of a paragraph that appears alone at the top of a new page or column.
+
+**Orphan:** The first line of a paragraph that appears alone at the bottom of a page or column.
 
 If a single word appears at the end of a paragraph, on its own line, then it is said to disturb the balance by providing too much white space. (_This is sometimes referred to as a ‘runt’._) When the first line of a paragraph appears at the bottom of a page or column, then, again it is a widow and gives a poor reading experience.
 
