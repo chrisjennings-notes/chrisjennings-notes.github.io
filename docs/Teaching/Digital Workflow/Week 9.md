@@ -41,12 +41,11 @@ Table!
 
 ## Orphans and Widows
 
-- **Widow:** The last line of a paragraph that appears alone at the top of a new page or column.
+**Widow:** The last line of a paragraph that appears alone at the top of a new page or column.
 
-- **Orphan:** The first line of a paragraph that appears alone at the bottom of a page or column.
+**Orphan:** The first line of a paragraph that appears alone at the bottom of a page or column.
 
-- **Runt:** A final line of a paragraph that consists of only a single short word or part of a hyphenated word
-
+**Runt:** A final line of a paragraph that consists of only a single short word or part of a hyphenated word
 
 ## Running Headers
 

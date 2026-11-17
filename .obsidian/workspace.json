@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/InDesign/Attention-to-Detail-in-Typography.md",
-                "mode": "source",
+                "file": "docs/Teaching/Digital Workflow/Week 9.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Attention-to-Detail-in-Typography"
+              "title": "Week 9"
             }
           },
           {
@@ -226,8 +226,8 @@
   },
   "active": "ac0317cd11fe7a0b",
   "lastOpenFiles": [
-    "docs/Teaching/Digital Workflow/Week 9.md",
     "docs/InDesign/Attention-to-Detail-in-Typography.md",
+    "docs/Teaching/Digital Workflow/Week 9.md",
     "docs/Teaching/Digital Workflow/Week 12.md",
     "docs/Teaching/Digital Workflow/Digital Workflow.md",
     "docs/Teaching/Digital Workflow/Week 11.md",
