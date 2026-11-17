@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Teaching/Digital Workflow/Digital Workflow.md",
+                "file": "docs/Teaching/Digital Workflow/Week 9.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Digital Workflow"
+              "title": "Week 9"
             }
           }
         ]
@@ -171,16 +171,6 @@
             }
           },
           {
-            "id": "827123e5dfb483da",
-            "type": "leaf",
-            "state": {
-              "type": "side-panel-control-view",
-              "state": {},
-              "icon": "viewIcon",
-              "title": "Markdown-Autocomplete"
-            }
-          },
-          {
             "id": "a9ac8459ddead1f6",
             "type": "leaf",
             "state": {
@@ -207,13 +197,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ac0317cd11fe7a0b",
+  "active": "a9ac8459ddead1f6",
   "lastOpenFiles": [
+    "docs/Teaching/Digital Workflow/Week 9.md",
+    "docs/Teaching/Digital Workflow/Week 11.md",
     "docs/Teaching/Digital Workflow/Week 8.md",
+    "docs/Teaching/Digital Workflow/Digital Workflow.md",
     "docs/Teaching/Digital Workflow/Week 6.md",
     "docs/Teaching/Digital Workflow/Week 5.md",
     "docs/Teaching/Digital Workflow/Week 4.md",
@@ -221,9 +213,6 @@
     "docs/Teaching/Digital Workflow/Week 2.md",
     "docs/Teaching/Digital Workflow/Week 1.md",
     "docs/Teaching/Digital Workflow/Week 12.md",
-    "docs/Teaching/Digital Workflow/Digital Workflow.md",
-    "docs/Teaching/Digital Workflow/Week 11.md",
-    "docs/Teaching/Digital Workflow/Week 9.md",
     "docs/Teaching/Digital Workflow",
     "docs/Teaching/Design and Technology/Week 3.md",
     "docs/Teaching/Design and Technology/Week 8.md",
