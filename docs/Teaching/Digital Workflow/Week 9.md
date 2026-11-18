@@ -1,6 +1,6 @@
 ---
 date: 2025-01-28
-updated: 2026-11-17
+updated: 2026-11-18
 ---
 - How should the play start?
 - What is the Dramatis Personae and how should we display this?
@@ -14,6 +14,8 @@ updated: 2026-11-17
 - Do we want capital letters? How can we turn them into lowercase (**How to use a script**)
 - What is the difference between _prose_ and _verse_ and how should they be displayed
 - unwanted space!!!
+
+**Synchronise by importing styles from intro**
 
 #### Running Headers
 
